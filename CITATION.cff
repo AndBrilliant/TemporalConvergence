@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite it.
+title: Temporal Convergence — minimal reproduction
+authors:
+  - family-names: Brilliant
+    given-names: Andrew
+year: 2025
+repository-code: https://github.com/AndBrilliant/TemporalConvergence
